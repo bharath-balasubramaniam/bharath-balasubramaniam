@@ -17,7 +17,7 @@ Hi, I'm Bharath, a Web Developer 🚀 from India, currently, I'm a MERN Stack De
 - 🌱 I’m currently learning React.js and Python; 
 - 👯 I’m looking to collaborate on Freelancing Projects 🤝;
 - 💬 Ask me about anything, I am happy to help🖤;
-- 📫 How to reach me: [Email](balasubramaniambharath7@gmail.com)/+91 9500583357📱
+- 📫 How to reach me: balasubramaniambharath7@gmail.com / +91 9500583357📱
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Impudent Critter🃏
