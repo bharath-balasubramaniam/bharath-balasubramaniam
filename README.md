@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [Bharath!](https://github.com/bharath-balasubramaniam) 
 
-<!--
-**bharath-balasubramaniam/bharath-balasubramaniam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/bharath-balasubramaniam-0a7869192/">
+  <img align="left" alt="Bharath LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/bharath_balasubramaniam/">
+  <img align="left" alt="Bharath Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm Bharath, a Web Developer 🚀 from India, currently, I'm a MERN Stack Developer💻, Freelancer 👨🏽‍💻, Beside's programming, I'm doing my French(B1). I love Photography and traveling.
+  
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently looking for a job.;
+- 🌱 I’m currently learning React.js and Python; 
+- 👯 I’m looking to collaborate on Freelancing Projects 🤝;
+- 💬 Ask me about anything, I am happy to help🖤;
+- 📫 How to reach me: [Email](balasubramaniambharath7@gmail.com)/[Mobile](+91 9500583357)
+- 💬 Ask me about Anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Impudent Critter🃏
+
