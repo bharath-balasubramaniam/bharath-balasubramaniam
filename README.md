@@ -7,7 +7,7 @@
 </a>
 <br />
 <br />
-![](https://komarev.com/ghpvc/?username=bharath-balasubramaniam&label=PROFILE+VIEWS)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-balasubramaniam&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-balasubramaniam" /> </p>
 Hi, I'm Bharath, a Web Developer 🚀 from India, currently, I'm a MERN Stack Developer💻, Freelancer 👨🏽‍💻, Beside's programming, I'm doing my French(B1). I love Photography and traveling.
   
 **Talking about Personal Stuffs:**
