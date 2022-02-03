@@ -6,6 +6,7 @@
   <img align="left" alt="Bharath Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+![](https://komarev.com/ghpvc/?username=bharath-balasubramaniam&style=flat-square&label=PROFILE+VIEWS)
 <br />
 
 Hi, I'm Bharath, a Web Developer 🚀 from India, currently, I'm a MERN Stack Developer💻, Freelancer 👨🏽‍💻, Beside's programming, I'm doing my French(B1). I love Photography and traveling.
