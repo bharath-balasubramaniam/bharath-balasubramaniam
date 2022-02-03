@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm [Bharath!](https://github.com/bharath-balasubramaniam) 
-
+![Visitor Count](https://profile-counter.glitch.me/bharath-balasubramaniam/count.svg)
 <a href="https://www.linkedin.com/in/bharath-balasubramaniam-0a7869192/">
   <img align="left" alt="Bharath LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
